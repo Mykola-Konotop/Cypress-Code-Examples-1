@@ -1,1 +1,1 @@
-# Lyft-Cypress-Testing
+# Cypress-Code-Examples-1
